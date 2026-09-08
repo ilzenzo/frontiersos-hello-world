@@ -1,6 +1,6 @@
 # FrontiersOS — Your super app. Your super assistant.
 
-A responsive, single-page introduction to FrontiersOS, created for Lorenzo Casari.
+A mission-led, Frontiers-branded introduction to FrontiersOS, created for Lorenzo Casari. The story connects a super app and super assistant to human potential and progress for science.
 
 ## Website
 
@@ -10,7 +10,9 @@ A responsive, single-page introduction to FrontiersOS, created for Lorenzo Casar
 
 - Light design with Frontiers blue, purple and cyan accents
 - Responsive layouts for mobile, tablet and desktop
-- Interactive workflow examples (Catch up, Understand, Reply)
+- Four interactive stories: researcher support, insight, creation, and follow-through
+- Animated connection diagram with reduced-motion support
+- Official Frontiers logo and embedded Museo Sans 300/500 typography
 - Keyboard focus styles, skip navigation and reduced-motion support
 - Self-contained HTML, CSS and JavaScript; no build step or third-party dependencies
 - Illustrative workflows explicitly labelled; no live data or credentials
@@ -29,4 +31,8 @@ GitHub Pages is disabled. This repository stores the source only.
 
 FrontiersOS is the platform for AI work at Frontiers. FrontonGPT is its assistant surface. Product features depend on enabled tools, connections and permissions.
 
-This is a hello-world introduction, not an official product documentation site. The header uses a custom monogram, not the corporate Frontiers logo. Typography uses system fonts, with Calibri as the preferred brand fallback.
+This is an introduction, not official product documentation. The page uses the official unmodified Frontiers grey logo, Museo Sans 300/500, and Frontiers blue with approved accent colors. All brand assets are embedded for a self-contained page. Illustrations are concepts, not product screenshots.
+
+Brand assets belong to Frontiers. Their inclusion does not grant a separate license to redistribute or reuse them.
+
+Tested in Chromium at 320, 375, 768, 1024 and 1440 pixels: no horizontal overflow, fonts and logos loaded, all four story buttons updated their content, and no JavaScript errors.
