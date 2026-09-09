@@ -12,12 +12,12 @@ A mission-led, Frontiers-branded introduction to FrontiersOS, created for Lorenz
 - Responsive layouts for mobile, tablet and desktop
 - Two audience cards over a shared FrontiersOS foundation
 - Four interactive employee stories: researcher support, insight, creation, and follow-through
-- Customer vision: Know them. Follow them. Guide them.
+- Native HTML customer-promise diagram: Know them. Follow them. Guide them. Text and cards are HTML, icons and orbital connectors are SVG, and motion is CSS with reduced-motion support. Diagram styles: `assets/customer-promise.css`. Cards stack on mobile.
 - Executive value: employee capacity, reduced publishing friction, and reusable capabilities
 - Animated connection diagram with reduced-motion support
 - Official Frontiers logo and embedded Museo Sans 300/500 typography
 - Keyboard focus styles, skip navigation and reduced-motion support
-- Self-contained HTML, CSS and JavaScript; no build step or third-party dependencies
+- Static HTML, local CSS and JavaScript; no build step or third-party dependencies
 - Illustrative workflows explicitly labelled; no live data or credentials
 
 ## Run locally
